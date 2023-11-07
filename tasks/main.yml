@@ -1,2 +1,258 @@
 ---
 # tasks file for jctanner.supertags
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
+
+- name: set a variable
+  set_fact:
+    foo: "bar"
